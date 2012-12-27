@@ -1,5 +1,5 @@
 <?php
-include('db_fns.php');
+include('../butler_db_fns.php');
 db_connect();
 
 // Sign them up for a beta invite (when we go beta)
