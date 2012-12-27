@@ -1,0 +1,64 @@
+.butlerWrap{
+	text-align: center;
+}
+.butlerWrap .butlerBack{
+	width: 95%;
+	padding: 20px;
+	border-radius: 2;
+	background: #151515;
+	margin: 0 auto;
+	box-shadow: 0px 0px 8px rgba(0,0,0,0.7);
+}
+.butlerWrap .butlerBack .butler{
+	font-size: 3.5em;
+	padding: 10px;
+	width: 97%;
+	background: #252525;
+	border: 1px dashed black;
+	color: #999999;
+	box-shadow: inset 0px 0px 3px rgba(0,0,0,0.7);
+}
+.butlerWrap .butlerBack .butler:focus{
+	outline: none;
+	border-bottom: 1px solid #550000;
+}
+
+.loading{
+	visibility: hidden;
+	text-align: center;
+}
+.loading.show{
+	visibility: visible;
+}
+.cardWrap{
+	padding: 10px;
+}
+.cardWrap .card{
+	background: #666666;
+	background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/nasty_fabric.png);
+	padding: 5px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0);
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.cardWrap .card .cardTitle{
+	font-size: 2em;
+	font-family: "Julius Sans One";
+	background: rgba(0,0,0,0.2);
+}
+
+
+/* Small Layout */
+@media only screen and (max-width: 768px){
+	.butlerWrap .butlerBack{
+		width: 90%;
+		padding: 5px;
+		padding-right: 5px;
+	}
+	.butlerWrap .butlerBack .butler{
+		font-size: 1em;
+		width: 93%;
+	}
+}

@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"phrase"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"IN",
+				"into"
+			],
+			[
+				"right",
+				"rightSign"
+			],
+			[
+				"wor",
+				"wordlist"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"bo",
+				"is_bool"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"word",
+				"wordlist"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"San",
+				"Sans-serif"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"chec",
+				"check_logged_in"
+			],
+			[
+				"sc",
+				"scream"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/index.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/google/src/config.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/google/examples/batch.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/class/oauth_client.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/class/test_oauth_client.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/google/README",
+		"/C/Documents and Settings/Taylor/My Documents/Downloads/oauth-api-2012-11-19/login_with_google.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/gmail/sendmail.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/email.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/googleCal/cal.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/oAuth.php",
+		"/C/Documents and Settings/Taylor/My Documents/Downloads/OAuth2-FullSource/OAuth2-FullSource.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/ftpsync.settings",
+		"/C/Documents and Settings/Taylor/htdocs/butler/css/animate-custom.css",
+		"/C/Documents and Settings/Taylor/htdocs/butler/css/butler.css",
+		"/C/Documents and Settings/Taylor/htdocs/butler/scripts/butler.js",
+		"/C/Documents and Settings/Taylor/htdocs/butler/index.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/butler.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/css/main.css",
+		"/C/Documents and Settings/Taylor/htdocs/butler/runme.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/python/test.py",
+		"/C/Documents and Settings/Taylor/htdocs/biz/index.php",
+		"/C/Program Files/Common Files/Microsoft Shared/OFFICE12/Office Setup Controller/Proof.en/Proof.XML",
+		"/C/Documents and Settings/Taylor/htdocs/butler/login.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/scripts/main.js",
+		"/C/Documents and Settings/Taylor/htdocs/butler/db_fns.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/beta.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/example/client/googledocs.php",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/README",
+		"/C/Documents and Settings/Taylor/htdocs/oauthphp/library/OAuthRequester.php",
+		"/C/Documents and Settings/Taylor/htdocs/butler/ftpsync.settings",
+		"/C/xampp/htdocs/test.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"redire",
+			"_formatOAuthReq"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

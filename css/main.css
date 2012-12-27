@@ -1,0 +1,170 @@
+body, html{
+	padding:	0px;
+	margin:		0px;
+}
+body{
+	font-size: 14pt;
+	font-weight: 300;
+	font-family: "Open Sans", Sans-serif;
+	background: #222229;
+	background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/blackorchid.png);
+}
+.title{
+	position: relative;
+
+	background: #EEEEEE;
+	background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/gray_jean.png);
+
+	color: #111111;
+	font-family: "Julius Sans One", Helvetica, Arial, Sans-serif;
+	text-align: center;
+	box-shadow: 0px 0px 3px rgba(0,0,0,0.5);
+	border-bottom: 1px solid #EEEEEE;
+}
+.subtitle{
+	color: #EEEEEE;
+	text-align: center;
+	font-family: "Julius Sans One", Helvetica, Arial, Sans-serif;
+}
+
+/* Info and Signup Layout */
+.wrap{
+	position: relative;
+}
+.wrap .leftInfo{
+	float: left;
+	width: 50%;
+}
+.wrap .rightSign{
+	float: right;
+	width: 50%;
+}
+.wrap .rightSign .signup{
+	padding: 10px;
+	background: #222222;
+	background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_dark.png);
+	margin: 0 auto;
+	margin-top: 40px;
+	text-align: center;
+	box-shadow: inset 0px 0px 4px rgba(0,0,0,0.5);
+	border: 1px solid #252525;
+}
+.wrap .rightSign .signup .signTitle{
+	font-size: 2em;
+	font-family: "Julius Sans One", Helvetica, Arial, Sans-serif;
+	font-family: "Libre Baskerville", serif;
+	font-variant: small-caps;
+	color: #555555;
+}
+.wrap .rightSign .signup .textInput input{
+	background: #555555;
+	background: url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/noisy_net.png);
+	border: 1px solid #111111;
+	border-radius: 5px;
+	padding: 5px;
+	font-size: 1.3em;
+	box-shadow: inset 2px 2px 1px rgba(10,10,10,0.4);
+	color: #999999;
+}
+.wrap .rightSign .signup .textInput input:focus{
+	outline: none;
+	box-shadow: 0px 0px 3px rgba(255,255,255,0.5);
+}
+.wrap .rightSign .signup .signupwrap{
+	display: none;
+}
+.wrap .rightSign .signup .submitInput input{
+	padding: 10px;
+	font-size: 1.4em;
+	font-family: "Julius Sans One", Helvetica, Arial, Sans-serif;
+	border: 1px solid #999999;
+	border-radius: 5px;
+	box-shadow: 0px 0px 3px rgba(0,0,0,0.4);
+
+	background: rgb(164,179,87); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(164,179,87,1) 0%, rgba(117,137,12,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(164,179,87,1)), color-stop(100%,rgba(117,137,12,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(164,179,87,1) 0%,rgba(117,137,12,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(164,179,87,1) 0%,rgba(117,137,12,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, rgba(164,179,87,1) 0%,rgba(117,137,12,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom, rgba(164,179,87,1) 0%,rgba(117,137,12,1) 100%); /* W3C */
+
+}
+.wrap .rightSign .signup .submitInput input:active{
+	margin-top: 3px;
+
+	background: rgb(117,137,12); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(117,137,12,1) 0%, rgba(164,179,87,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(117,137,12,1)), color-stop(100%,rgba(164,179,87,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(117,137,12,1) 0%,rgba(164,179,87,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(117,137,12,1) 0%,rgba(164,179,87,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, rgba(117,137,12,1) 0%,rgba(164,179,87,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom, rgba(117,137,12,1) 0%,rgba(164,179,87,1) 100%); /* W3C */
+
+}
+
+/* LeftInfo*/
+.wrap .leftInfo .thingsToSay{
+	border-bottom: 1px solid #151515;
+	padding: 20px;
+}
+.wrap .leftInfo .thingsToSay .speech{
+	font-family: "Libre Baskerville", serif;
+	font-size: 1.5em;
+	text-align: left;
+	color: #666666;
+	padding-bottom: 20px;
+}
+.wrap .leftInfo .thingsToSay .action{
+	color: #DDDDDD;
+}
+/* Login Div and Form*/
+.login{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 999;
+	text-align: left;
+	padding: 5px;
+	background: #EEEEEE;
+	box-shadow: 0px 0px 3px rgba(0,0,0,0.2);
+}
+.login .loginText{
+	background: #DDDDDD;
+	border: none;
+	border-left: 1px solid #BBBBBB;
+	border-right: 1px solid #BBBBBB;
+	padding-left: 2px;
+}
+.login .loginText:focus{
+	outline: none;
+}
+.login .submitDiv{
+	text-align: center;
+}
+.login .loginButton{
+	background: black;
+	border-radius: 3px;
+	border: none;
+	padding: 5px;
+	color: #DDDDDD;
+	font-family: "Libre Baskerville", serif;
+	display: block;
+	width: 100%;
+	cursor: pointer;
+}
+@media only screen and (max-width: 768px){
+	.wrap .leftInfo, .wrap .rightSign{
+		float: none;
+		width: auto;
+	}
+	.login{
+		position: relative;
+		width: auto;	
+		text-align: center;
+	}
+	.login .loginText{
+		width: 97%;
+		font-size: 1.5em;
+	}
+}
