@@ -8,7 +8,7 @@
 	profiles.
 */
 
-include('db_fns.php');
+include('../butler_db_fns.php');
 db_connect();
 
 if(isset($_POST['ajaxlogin'])){
