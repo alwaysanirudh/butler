@@ -1,5 +1,5 @@
 <?php
-include('db_fns.php');
+include('../butler_db_fns.php');
 
 // includes a weight out of 20 for each word.
 // Action = action
